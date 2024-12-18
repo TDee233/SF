@@ -1,4 +1,5 @@
 package mod13;
+import java.lang.Thread;
 
 class Test extends Thread {
     String str;
